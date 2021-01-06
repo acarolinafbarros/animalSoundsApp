@@ -1,2 +1,3 @@
-# animalSoundsApp
-Animal Sounds - iOS App (swift) using inheritance pattern and autolayout 
+# iOS App to reproduce animal sounds
+
+Implemented on Swift using inheritance pattern and autolayout 
